@@ -16,7 +16,6 @@ BankMate is an AI-powered banking chatbot currently being developed as part of t
 ## 🧠 Tech Stack
 - Python
 - Natural Language Processing (spaCy)
-- JSON / Custom dataset for intent handling
 
 ---
 
